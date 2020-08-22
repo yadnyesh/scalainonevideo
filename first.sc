@@ -1,2 +1,2 @@
-var myName = "Yadnyesh"
-print(myName)
+import scala.math
+print(ab)
