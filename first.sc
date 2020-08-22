@@ -1,2 +1,2 @@
 import scala.math
-print(ab)
+print(abs(-8))
